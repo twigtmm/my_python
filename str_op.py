@@ -1,9 +1,9 @@
-s= "У лукоморья 123 дуб зеленый 456"
-s.find('я')
-s.index('я')
-s.count('у')
-if s.isalpha()== False:
+str= "У лукоморья 123 дуб зеленый 456"
+str.find('я')
+str.index('я')
+str.count('у')
+if str.isalpha()== False:
 	s.upper()
-if len('У лукоморья 123 дуб зеленый 456') > 4:
-        s.lower()
-s.replace("У","О")
+if len(str) > 4:
+        str.lower()
+str.replace("У","О")
