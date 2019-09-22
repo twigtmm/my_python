@@ -5,6 +5,6 @@ def func():
         return(y)
 x=float(input())
 y=float(input())
-
+ghj
 max= int(func())
 print max
