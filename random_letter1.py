@@ -3,10 +3,9 @@ l=['самовар','весна','лето']
 a= random.choice(l)
 b=random.choice(a)
 lst=list(a)
-if b in lst:
-    c=lst.index(b)
-    lst.insert(c,'?')
-    lst.remove(b)
+c=lst.index(b)
+lst.insert(c,'?')
+lst.remove(b)
     
 print(''.join(lst))
 d= input("Введите букву: ")
