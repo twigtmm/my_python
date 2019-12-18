@@ -1,0 +1,9 @@
+{
+  "api_id": "511563",
+  "api_hash": "89935aa33c702c3ee591ee2f14cbd084",
+  "TOKEN": "1043688969:AAGyXeusqvrRyz7ogobSz79AJqMfTf6AZnI",
+  "NAME": "",
+  "IS_USING_PROXY": true,
+  "PROXY": ["ru.tgproxy.today", 1194, "ddfb175d6d7f820cdc73ab11edbdcdbd74"],
+  "CONVERSATION_TIMEOUT": 60
+}
